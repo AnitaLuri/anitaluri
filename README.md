@@ -1,5 +1,11 @@
 ### Oi!! 👋
 
+<div >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnitaLuri&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&locale=pt-BR"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaLuri&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=pt-BR"/>
+  
+</div>
+
 <br/>
 
 ## Contatos:
